@@ -28,7 +28,9 @@ musicPlayer/
 
 * Register page.
 <img src="assets/images/artwork/registerPage.jpg" width="500">
+
 * Main page.
 <img src="assets/images/artwork/mainPage.jpg" width="500">
+
 * Album page.
 <img src="assets/images/artwork/albumPage.jpg" width="500">
