@@ -26,21 +26,21 @@ musicPlayer/
 
 - ## UI design:
 
-+ Register page.
+1. Register page.
 <img src="assets/images/artwork/registerPage.jpg" width="500">
 
-+ Main page.
+2. Main page.
 <img src="assets/images/artwork/mainPage.jpg" width="500">
 
-+ Album page.
+3. Album page.
 <img src="assets/images/artwork/albumPage.jpg" width="500">
 
 - ## Tools:
 
-+ PHP.
+1. PHP.
 
-+ MySQL.
+2. MySQL.
 
-+ JavaScript.
+3. JavaScript.
 
-+ HTML/CSS.
+4. HTML/CSS.
